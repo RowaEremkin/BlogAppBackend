@@ -3,56 +3,64 @@
   "WorkspaceRootPath": "C:\\Project\\C#\\BlogAppBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\sql\\sqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:sql\\sqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\sql\\isqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:sql\\isqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\blogelementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\blogelementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\devices\\devicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:devices\\devicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\devices\\idevicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:devices\\idevicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\deleteblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\deleteblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tokens\\tokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tokens\\tokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\getblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\getblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\putbloglikedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\putbloglikedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\blogelementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\blogelementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\sql\\data\\sqlselectjoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:sql\\data\\sqlselectjoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tools\\devices\\devicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tools\\devices\\devicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\blogappbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:blogappbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tools\\sql\\sqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tools\\sql\\sqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tools\\sql\\isqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tools\\sql\\isqlaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tools\\devices\\idevicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tools\\devices\\idevicestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\deleteblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\deleteblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tools\\tokens\\tokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tools\\tokens\\tokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\putbloglikedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\putbloglikedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tools\\sql\\data\\sqlselectjoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tools\\sql\\data\\sqlselectjoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\putplayerlogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,12 +75,8 @@
       "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\putplayerregisterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tokens\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tokens\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\getblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:controllers\\data\\getblogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\tools\\tokens\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|solutionrelative:tools\\tokens\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF82673E-6FCE-40CD-A638-9DE597E936C8}|BlogAppBackend.csproj|c:\\project\\c#\\blogappbackend\\controllers\\data\\getroomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,59 +106,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDeviceStorage.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Devices\\IDeviceStorage.cs",
-              "RelativeDocumentMoniker": "Devices\\IDeviceStorage.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Devices\\IDeviceStorage.cs",
-              "RelativeToolTip": "Devices\\IDeviceStorage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T12:27:28.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
               "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\BlogController.cs",
               "RelativeToolTip": "Controllers\\BlogController.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGwAAAAbAAAA",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADgv6YAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T16:22:50.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ISqlAccess.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Sql\\ISqlAccess.cs",
-              "RelativeDocumentMoniker": "Sql\\ISqlAccess.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Sql\\ISqlAccess.cs",
-              "RelativeToolTip": "Sql\\ISqlAccess.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Sql\\ISqlAccess.cs",
+              "RelativeDocumentMoniker": "Tools\\Sql\\ISqlAccess.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Sql\\ISqlAccess.cs",
+              "RelativeToolTip": "Tools\\Sql\\ISqlAccess.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAASwAoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:26:57.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T06:26:57.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "SqlAccess.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Sql\\SqlAccess.cs",
-              "RelativeDocumentMoniker": "Sql\\SqlAccess.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Sql\\SqlAccess.cs",
-              "RelativeToolTip": "Sql\\SqlAccess.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAgwJ8AAAAZAAAA",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Sql\\SqlAccess.cs",
+              "RelativeDocumentMoniker": "Tools\\Sql\\SqlAccess.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Sql\\SqlAccess.cs",
+              "RelativeToolTip": "Tools\\Sql\\SqlAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:09:08.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T11:09:08.148Z"
             },
             {
               "$type": "Document",
@@ -164,40 +153,98 @@
               "RelativeDocumentMoniker": "Controllers\\Data\\BlogElementData.cs",
               "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\BlogElementData.cs",
               "RelativeToolTip": "Controllers\\Data\\BlogElementData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:24:44.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeviceStorage.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Devices\\DeviceStorage.cs",
-              "RelativeDocumentMoniker": "Devices\\DeviceStorage.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Devices\\DeviceStorage.cs",
-              "RelativeToolTip": "Devices\\DeviceStorage.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwCsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T12:16:55.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T19:24:44.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DeviceStorage.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Devices\\DeviceStorage.cs",
+              "RelativeDocumentMoniker": "Tools\\Devices\\DeviceStorage.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Devices\\DeviceStorage.cs",
+              "RelativeToolTip": "Tools\\Devices\\DeviceStorage.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:16:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:36:05.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:08:53.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBlogData.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\GetBlogData.cs",
+              "RelativeDocumentMoniker": "Controllers\\Data\\GetBlogData.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\GetBlogData.cs",
+              "RelativeToolTip": "Controllers\\Data\\GetBlogData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:24:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDeviceStorage.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Devices\\IDeviceStorage.cs",
+              "RelativeDocumentMoniker": "Tools\\Devices\\IDeviceStorage.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Devices\\IDeviceStorage.cs",
+              "RelativeToolTip": "Tools\\Devices\\IDeviceStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:27:28.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogAppBackend.http",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\BlogAppBackend.http",
+              "RelativeDocumentMoniker": "BlogAppBackend.http",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\BlogAppBackend.http",
+              "RelativeToolTip": "BlogAppBackend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-29T09:13:41.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\PlayerController.cs",
               "RelativeDocumentMoniker": "Controllers\\PlayerController.cs",
               "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\PlayerController.cs",
               "RelativeToolTip": "Controllers\\PlayerController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAIAwwGwAAABHAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAIAwwCoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:43:30.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T08:43:30.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DeleteBlogData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\DeleteBlogData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\DeleteBlogData.cs",
@@ -205,62 +252,35 @@
               "RelativeToolTip": "Controllers\\Data\\DeleteBlogData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T16:48:53.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T16:48:53.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "TokenStorage.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tokens\\TokenStorage.cs",
-              "RelativeDocumentMoniker": "Tokens\\TokenStorage.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tokens\\TokenStorage.cs",
-              "RelativeToolTip": "Tokens\\TokenStorage.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA9wBUAAAAIAAAA",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Tokens\\TokenStorage.cs",
+              "RelativeDocumentMoniker": "Tools\\Tokens\\TokenStorage.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Tokens\\TokenStorage.cs",
+              "RelativeToolTip": "Tools\\Tokens\\TokenStorage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T18:58:59.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T18:58:59.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\RoomController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\RoomController.cs",
-              "RelativeToolTip": "Controllers\\RoomController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAD4v1EAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:08:53.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "SqlSelectJoinData.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Sql\\Data\\SqlSelectJoinData.cs",
-              "RelativeDocumentMoniker": "Sql\\Data\\SqlSelectJoinData.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Sql\\Data\\SqlSelectJoinData.cs",
-              "RelativeToolTip": "Sql\\Data\\SqlSelectJoinData.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Sql\\Data\\SqlSelectJoinData.cs",
+              "RelativeDocumentMoniker": "Tools\\Sql\\Data\\SqlSelectJoinData.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Sql\\Data\\SqlSelectJoinData.cs",
+              "RelativeToolTip": "Tools\\Sql\\Data\\SqlSelectJoinData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T07:19:50.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAAEMAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:36:05.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "PutBlogLikeData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\PutBlogLikeData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\PutBlogLikeData.cs",
@@ -272,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PutPlayerLoginData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\PutPlayerLoginData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\PutPlayerLoginData.cs",
@@ -284,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "PostBlogData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\PostBlogData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\PostBlogData.cs",
@@ -296,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "PutPlayerRegisterData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\PutPlayerRegisterData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\PutPlayerRegisterData.cs",
@@ -308,31 +328,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ITokenStorage.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tokens\\ITokenStorage.cs",
-              "RelativeDocumentMoniker": "Tokens\\ITokenStorage.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tokens\\ITokenStorage.cs",
-              "RelativeToolTip": "Tokens\\ITokenStorage.cs",
+              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Tokens\\ITokenStorage.cs",
+              "RelativeDocumentMoniker": "Tools\\Tokens\\ITokenStorage.cs",
+              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Tools\\Tokens\\ITokenStorage.cs",
+              "RelativeToolTip": "Tools\\Tokens\\ITokenStorage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T19:06:56.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetBlogData.cs",
-              "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\GetBlogData.cs",
-              "RelativeDocumentMoniker": "Controllers\\Data\\GetBlogData.cs",
-              "ToolTip": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\GetBlogData.cs",
-              "RelativeToolTip": "Controllers\\Data\\GetBlogData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:24:07.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GetRoomsData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\GetRoomsData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\GetRoomsData.cs",
@@ -344,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "RoomElementData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\RoomElementData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\RoomElementData.cs",
@@ -356,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "PostRoomCreateData.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\Data\\PostRoomCreateData.cs",
               "RelativeDocumentMoniker": "Controllers\\Data\\PostRoomCreateData.cs",
@@ -368,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -380,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Project\\C#\\BlogAppBackend\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",

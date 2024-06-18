@@ -1,8 +1,8 @@
-using BlogAppBackend.DebugConsole;
-using BlogAppBackend.Devices;
-using BlogAppBackend.Sql;
-using BlogAppBackend.Sql.Data;
-using BlogAppBackend.Tokens;
+using BlogAppBackend.Tools.Console;
+using BlogAppBackend.Tools.Devices;
+using BlogAppBackend.Tools.Sql;
+using BlogAppBackend.Tools.Sql.Data;
+using BlogAppBackend.Tools.Tokens;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Globalization;

@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace BlogAppBackend.Devices
+namespace BlogAppBackend.Tools.Devices
 {
     public interface IDeviceStorage
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlogAppBackend.DebugConsole
+namespace BlogAppBackend.Tools.Console
 {
     public class DebugConsole : IDebugConsole
     {

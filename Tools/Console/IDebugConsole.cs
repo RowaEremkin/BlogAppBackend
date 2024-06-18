@@ -1,4 +1,4 @@
-﻿namespace BlogAppBackend.DebugConsole
+﻿namespace BlogAppBackend.Tools.Console
 {
     public interface IDebugConsole
     {

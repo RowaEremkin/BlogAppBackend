@@ -37,3 +37,4 @@ C:\Project\C#\BlogAppBackend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTok
 C:\Project\C#\BlogAppBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Project\C#\BlogAppBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Project\C#\BlogAppBackend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\C#\BlogAppBackend\obj\Debug\net8.0\BlogAppBackend.sourcelink.json

@@ -1,7 +1,7 @@
 ﻿using BlogAppBackend.Controllers.Data;
-using BlogAppBackend.DebugConsole;
-using BlogAppBackend.Devices;
-using BlogAppBackend.Sql;
+using BlogAppBackend.Tools.Console;
+using BlogAppBackend.Tools.Devices;
+using BlogAppBackend.Tools.Sql;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Data;

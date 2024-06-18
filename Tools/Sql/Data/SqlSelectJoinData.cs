@@ -1,4 +1,4 @@
-﻿namespace BlogAppBackend.Sql.Data
+﻿namespace BlogAppBackend.Tools.Sql.Data
 {
     public class SqlSelectJoinData
     {

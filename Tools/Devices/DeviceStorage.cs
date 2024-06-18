@@ -1,9 +1,9 @@
-﻿using BlogAppBackend.DebugConsole;
-using BlogAppBackend.Sql;
+﻿using BlogAppBackend.Tools.Console;
+using BlogAppBackend.Tools.Sql;
 using MySqlConnector;
 using System.Data;
 
-namespace BlogAppBackend.Devices
+namespace BlogAppBackend.Tools.Devices
 {
     public class DeviceStorage : IDeviceStorage
     {
@@ -19,7 +19,7 @@ namespace BlogAppBackend.Devices
             DataSet dataSet = await _sqlAccess.SelectWhere(
                 fromTable: "devices",
                 whereFilters: [$"deviceId = '{deviceId}'"]
-                ); 
+                );
             _debugConsole.Log($"CreateDeviceId dataset table count: {dataSet.Tables.Count}");
             DataTable dataTable = null;
             if (dataSet.Tables.Count > 0) dataTable = dataSet.Tables[0];
@@ -33,7 +33,7 @@ namespace BlogAppBackend.Devices
                 intoTable: "devices",
                 columns: ["deviceId", "authorId"],
                 values: [$"'{deviceId}'", authorId.ToString()]
-                )>=0)
+                ) >= 0)
             {
                 return true;
             }
@@ -43,7 +43,7 @@ namespace BlogAppBackend.Devices
         {
             {
                 DataSet dataSet = await _sqlAccess.ExecuteQuery($"CALL GetAuthorIdByDeviceId('{deviceId}')");
-                if(dataSet == null)
+                if (dataSet == null)
                 {
                     _debugConsole.Log($"GetUserByDeviceId dataRow is null");
                     return -1;

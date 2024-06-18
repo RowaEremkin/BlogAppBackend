@@ -1,8 +1,9 @@
 ﻿using BlogAppBackend.Controllers.Data;
-using BlogAppBackend.DebugConsole;
-using BlogAppBackend.Devices;
-using BlogAppBackend.Sql;
-using BlogAppBackend.Tokens;
+using BlogAppBackend.Tools.Console;
+using BlogAppBackend.Tools.Devices;
+using BlogAppBackend.Tools.Sql;
+using BlogAppBackend.Tools.Sql.Data;
+using BlogAppBackend.Tools.Tokens;
 using Microsoft.AspNetCore.DataProtection.KeyManagement;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
@@ -132,14 +133,14 @@ namespace BlogAppBackend.Controllers
             if(roomId >= 0) whereFilters.Add($"roomId={roomId}");
             if (authorId >= 0) whereFilters.Add($"authorId={authorId}");
             if (limit < 1) limit = 1;
-            List<Sql.Data.SqlSelectJoinData> joins = new List<Sql.Data.SqlSelectJoinData>();
+            List<SqlSelectJoinData> joins = new List<SqlSelectJoinData>();
             List<string> selectItems = new List<string>();
             string groupBy = "blogs.blogId";
             if (roomId == -1)
             {
                 groupBy += ", rooms.roomId";
                 selectItems.Add("rooms.*");
-                joins.Add(new Sql.Data.SqlSelectJoinData()
+                joins.Add(new Tools.Sql.Data.SqlSelectJoinData()
                 {
                     JoinTable = "rooms",
                     FromName = "roomName",
@@ -154,7 +155,7 @@ namespace BlogAppBackend.Controllers
             {
                 groupBy += ", authors.authorId";
                 selectItems.Add("authors.*");
-                joins.Add(new Sql.Data.SqlSelectJoinData()
+                joins.Add(new Tools.Sql.Data.SqlSelectJoinData()
                 {
                     JoinTable = "authors",
                     FromName = "login",
@@ -165,7 +166,7 @@ namespace BlogAppBackend.Controllers
                         }
                 });
             }
-            joins.Add(new Sql.Data.SqlSelectJoinData()
+            joins.Add(new Tools.Sql.Data.SqlSelectJoinData()
             {
                 JoinTable = "likes",
                 FromName = "login",

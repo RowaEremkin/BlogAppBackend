@@ -1,8 +1,8 @@
 ﻿using BlogAppBackend.Controllers.Data;
-using BlogAppBackend.DebugConsole;
-using BlogAppBackend.Devices;
-using BlogAppBackend.Sql;
-using BlogAppBackend.Tokens;
+using BlogAppBackend.Tools.Console;
+using BlogAppBackend.Tools.Devices;
+using BlogAppBackend.Tools.Sql;
+using BlogAppBackend.Tools.Tokens;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 using System;

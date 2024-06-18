@@ -1,4 +1,4 @@
-﻿namespace BlogAppBackend.Tokens
+﻿namespace BlogAppBackend.Tools.Tokens
 {
     public interface ITokenStorage
     {

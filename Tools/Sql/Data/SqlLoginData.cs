@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlogAppBackend.Sql.Data
+namespace BlogAppBackend.Tools.Sql.Data
 {
     public class SqlLoginData
     {

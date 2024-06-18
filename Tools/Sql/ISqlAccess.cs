@@ -1,8 +1,8 @@
-﻿using BlogAppBackend.Sql.Data;
+﻿using BlogAppBackend.Tools.Sql.Data;
 using MySqlConnector;
 using System.Data;
 
-namespace BlogAppBackend.Sql
+namespace BlogAppBackend.Tools.Sql
 {
     public interface ISqlAccess
     {

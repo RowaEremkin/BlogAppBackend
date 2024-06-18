@@ -1,11 +1,11 @@
-﻿using BlogAppBackend.DebugConsole;
+﻿using BlogAppBackend.Tools.Console;
 using Microsoft.AspNetCore.RequestDecompression;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace BlogAppBackend.Tokens
+namespace BlogAppBackend.Tools.Tokens
 {
     public class TokenStorage : ITokenStorage
     {

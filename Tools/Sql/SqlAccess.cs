@@ -1,16 +1,9 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.Common;
-using System.Linq;
-using System.Text;
-using BlogAppBackend.DebugConsole;
-using BlogAppBackend.Sql.Data;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using System.Data;
+using BlogAppBackend.Tools.Console;
+using BlogAppBackend.Tools.Sql.Data;
 using MySqlConnector;
 
-namespace BlogAppBackend.Sql
+namespace BlogAppBackend.Tools.Sql
 {
 
     public class SqlAccess : ISqlAccess
@@ -34,7 +27,7 @@ namespace BlogAppBackend.Sql
         {
             string query = "";
             query += "SELECT ";
-            if(selectItems != null && selectItems.Length > 0)
+            if (selectItems != null && selectItems.Length > 0)
             {
                 for (int i = 0; i < selectItems.Length; ++i)
                 {
@@ -48,21 +41,21 @@ namespace BlogAppBackend.Sql
             }
             query += " FROM ";
             query += fromTable;
-            if(joins != null && joins.Count > 0)
+            if (joins != null && joins.Count > 0)
             {
                 foreach (var join in joins)
                 {
                     if (join.FromJoinToTable == null || join.FromJoinToTable.Count == 0) continue;
-                    query += $"{(join.LeftJoin?" LEFT":" ")} JOIN {join.JoinTable} ON ";
+                    query += $"{(join.LeftJoin ? " LEFT" : " ")} JOIN {join.JoinTable} ON ";
                     bool first = true;
                     foreach (KeyValuePair<string, string> pair in join.FromJoinToTable)
                     {
-                        if(!first) { query += " AND "; } else { first = false; }
+                        if (!first) { query += " AND "; } else { first = false; }
                         query += $"{join.JoinTable}.{pair.Key}={fromTable}.{pair.Value}";
                     }
                 }
             }
-            if(whereFilters != null && whereFilters.Length > 0)
+            if (whereFilters != null && whereFilters.Length > 0)
             {
                 query += " WHERE ";
                 for (int i = 0; i < whereFilters.Length; ++i)
@@ -81,7 +74,7 @@ namespace BlogAppBackend.Sql
                 query += " ORDER BY ";
                 query += orderBy;
             }
-            if(limit > 0)
+            if (limit > 0)
             {
                 query += " LIMIT ";
                 query += limit.ToString();
@@ -128,7 +121,7 @@ namespace BlogAppBackend.Sql
         {
             if (columns.Length != values.Length || columns.Length == 0) return -1;
             string query = "";
-            if(useTransaction) query += "START TRANSACTION; \n";
+            if (useTransaction) query += "START TRANSACTION; \n";
             query += "UPDATE ";
             query += fromTable;
             query += "\n";
